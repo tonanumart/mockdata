@@ -1,98 +1,122 @@
 [
     {
         "name": "Tiger Nixon",
+        "gender": "male",
         "age": 61
     },
     {
         "name": "Garrett Winters",
+        "gender": "male",
         "age": 63
     },
     {
         "name": "Ashton Cox",
+        "gender": "male",
         "age": 66
     },
     {
         "name": "Cedric Kelly",
+        "gender": "female",
         "age": 22
     },
     {
         "name": "Airi Satou",
+        "gender": "female",
         "age": 33
     },
     {
         "name": "Brielle Williamson",
+        "gender": "male",
         "age": 61
     },
     {
         "name": "Herrod Chandler",
+        "gender": "female",
         "age": 59
     },
     {
         "name": "Rhona Davidson",
+        "gender": "female",
         "age": 21
     },
     {
         "name": "Colleen Hurst",
+        "gender": "female",
         "age": 39
     },
     {
         "name": "Sonya Frost",
+        "gender": "male",
         "age": 23
     },
     {
         "name": "Jena Gaines",
+        "gender": "female",
         "age": 30
     },
     {
         "name": "Quinn Flynn",
+        "gender": "female",
         "age": 22
     },
     {
         "name": "Charde Marshall",
+        "gender": "male",
         "age": 36
     },
     {
         "name": "Haley Kennedy",
+        "gender": "male",
         "age": 43
     },
     {
         "name": "Tatyana Fitzpatrick",
+        "gender": "female",
         "age": 19
     },
     {
         "name": "Michael Silva",
+        "gender": "male",
         "age": 66
     },
     {
         "name": "Paul Byrd",
+        "gender": "male",
         "age": 64
     },
     {
         "name": "Gloria Little",
+        "gender": "female",
         "age": 59
     },
     {
         "name": "Bradley Greer",
+        "gender": "male",
         "age": 41
     },
     {
         "name": "Dai Rios",
+        "gender": "female",
         "age": 35
     },
     {
         "name": "Jenette Caldwell",
+        "gender": "male",
         "age": 30
     },
     {
         "name": "Yuri Berry",
+        "gender": "female",
         "age": 40
     },
     {
         "name": "Caesar Vance",
+        "gender": "male",
         "age": 21
     },
     {
         "name": "Doris Wilder",
+        "gender": "male",
         "age": 23
     }
 ]
